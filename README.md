@@ -68,7 +68,6 @@ You want to calculate the derivatives for velocity, acceleration, and jerk (the 
 
 ---
 
-If you want, I can create a more detailed example or a sample input/output for what using ODTS might look like in code or workflow! Just let me know your preferred format.
 ## The ODTS Framework
 
 The **OBINexus Derivative Tracing System (ODTS)** provides a framework to:
